@@ -1,4 +1,4 @@
-<img align="center" src="title.png" alt="game_title" height="30" />
+<img align="center" src="title.png" alt="game_title" height="50" />
 
 Welcome to **Space Shooter**, a fast-paced pixel-style retro arcade game inspired by the classic era of shoot-em-ups, optimized for modern touch!
 
